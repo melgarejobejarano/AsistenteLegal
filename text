@@ -1,0 +1,2 @@
+(.venv) danielalejandra@MacBook-Pro-de-Daniel PruebaPython % /Users/danielalejandra/PruebaPython/.venv/bin/python /Users/danielalejandra/PruebaPython/pruebitaopenai.py
+ChatCompletionMessage(content='In circuits they dream,  \nWhispers of thought, light enfold,  \nMind born from machine.', refusal=None, role='assistant', annotations=[], audio=None, function_call=None, tool_calls=None)

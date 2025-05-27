@@ -1,0 +1,9 @@
+Title: What are some "must learn" libraries in Python
+
+Content: Hey guys, I'm done school for 3 months and I'd like to go deeper in my python learning during that time. Since we didn't touch libraries at all, I feel like it could be a good thing to look into. 
+
+So as the title says, which ones should I go an try to learn by myself? And are there good resources to learn them? I know we're going to be moving to other languages next semester, but I'd like to think that I can use python properly too. 
+
+Thanks in advance.
+
+Edit: Wow thanks for all the answers. I have a lots of stuff to check out now. Probably more than my 3 months will allow me too lol.
